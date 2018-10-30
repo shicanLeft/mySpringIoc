@@ -2,6 +2,10 @@ package com.disfile.cn;
 
 import com.disfile.cn.impl.UserServiceImpl;
 
+/**
+ * 自实现
+ * springIOC 依赖注入
+ */
 public class Main {
 
     /******扫包范围****/
